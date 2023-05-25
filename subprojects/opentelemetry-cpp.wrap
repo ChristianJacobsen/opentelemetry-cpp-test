@@ -3,8 +3,3 @@ directory = opentelemetry-cpp-1.9.0
 source_url = https://github.com/open-telemetry/opentelemetry-cpp/archive/v1.9.0.tar.gz
 source_filename = opentelemetry-cpp-v1.9.0.tar.gz
 source_hash = 0fdbefbdc2c154634728097e26de52a8210ed95cb032beb5f35da0a493cd5066
-
-patch_directory = opentelemetry-cpp
-
-[provide]
-opentelemetry_metrics = opentelemetry_metrics_dep
